@@ -1,0 +1,44 @@
+[
+  {
+    "title": "First Timer",
+    "description": "Achieve your first Goal",
+    "requiredGoals": 1,
+    "image": "assets/badge.png",
+    "isUnlocked": false
+  },
+  {
+    "title": "Savings Expert",
+    "description": "Achieve your third Goal",
+    "requiredGoals": 3,
+    "image": "assets/badge2.png",
+    "isUnlocked": false
+  },
+  {
+    "title": "Finance Maven",
+    "description": "Achieve your fifth Goal",
+    "requiredGoals": 5,
+    "image": "assets/badge3.png",
+    "isUnlocked": false
+  },
+  {
+    "title": "Budget Master",
+    "description": "Achieve your seventh Goal",
+    "requiredGoals": 7,
+    "image": "assets/badge4.png",
+    "isUnlocked": false
+  },
+  {
+    "title": "Financial Wizard",
+    "description": "Achieve your ninth Goal",
+    "requiredGoals": 9,
+    "image": "assets/badge5.png",
+    "isUnlocked": false
+  },
+  {
+    "title": "Financial Maestro",
+    "description": "Achieve your eleventh Goal",
+    "requiredGoals": 11,
+    "image": "assets/badge6.png",
+    "isUnlocked": false
+  }
+]
